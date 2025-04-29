@@ -1,2 +1,40 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<title>Weather App UI</title>
+<body>
+<center>
+    <h1>Weather App</h1>
+
+    <form>
+        <label for="name">City Name:</label><br>
+        <input type="text"
+        name=" enter you city name"
+        id="city name"
+        class="city name"
+        placeholder="Enter your city name"><br>
+        <br>
+    </form>
+    
+    <button>submit</button>
+</center>      
+        
+
+
+
+
+
+
+
+    </style>
+
+
+    
+</body>
+</html>
